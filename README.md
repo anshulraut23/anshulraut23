@@ -75,7 +75,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anshulraut23&theme=radical&margin-w=15" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshulraut23/anshulraut23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
